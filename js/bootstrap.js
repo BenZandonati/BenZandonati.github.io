@@ -2116,7 +2116,7 @@ if (typeof jQuery === 'undefined') {
 
   // TAB PLUGIN DEFINITION
   // =====================
-
+Hi my name is max and I would like to be a contributor on the project
   function Plugin(option) {
     return this.each(function () {
       var $this = $(this)
